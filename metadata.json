@@ -1,0 +1,7 @@
+{
+  "name": "Local E-Rickshaw Finder",
+  "description": "A simple, lightweight web application to find nearby e-rickshaws/autos, tailored for tier-3 cities and rural India.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
