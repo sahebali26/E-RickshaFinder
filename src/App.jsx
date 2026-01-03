@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import React, { useState, useEffect } from 'react'
 import MapComponent from './components/Map'
 import Login from './components/Login'
 import Onboarding from './components/Onboarding'
